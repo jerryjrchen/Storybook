@@ -9,6 +9,9 @@ Perhaps think of it as a light version of the popular "The Walking Dead" video g
 TODO
 ===============
 -Some general debugging of crashes that are based upon software abuse.
+
 -Smooth the overall user experience.
+
 -Add ability to read in stories and write stories.
+
 -Add a plot checker to make sure all choices lead to valid plot points.
